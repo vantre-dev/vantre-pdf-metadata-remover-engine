@@ -1,0 +1,6 @@
+Vantre PDF Engine
+Copyright 2026 Vantre
+
+Third-party libraries:
+- PdfBox-Android (Tom Roush), Apache License 2.0
+- AndroidX Core KTX (The Android Open Source Project), Apache License 2.0

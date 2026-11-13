@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scrub_error_incomplete_file">File appears incomplete or corrupted. Try opening it in a PDF viewer. If it won\'t open there either, the file may be damaged.</string>
+    <string name="scrub_error_password_protected">This file is password-protected and could not be unlocked. Make sure the correct password is entered before scrubbing.</string>
+    <string name="scrub_error_access_denied">The file could not be read. Try sharing it from the Files app instead of picking it directly.</string>
+    <string name="scrub_error_cannot_read_source">The file could not be read. Try sharing it from the Files app instead of picking directly.</string>
+    <string name="scrub_error_processing_failed">This file could not be parsed as a valid PDF. Open it in a PDF viewer to confirm it works. If it does, please report this issue so we can investigate.</string>
+    <string name="scrub_error_cancelled">Processing was cancelled.</string>
+    <string name="scrub_error_office_password">This Office file is password-protected. Remove the password in Word, Excel or PowerPoint, then try again.</string>
+    <string name="scrub_error_office_invalid">This file is not a valid Word, Excel or PowerPoint document. Open it in Office to check that it works.</string>
+    <string name="scrub_error_office_failed">This Office file could not be cleaned. If it opens normally in Office, please report this issue so we can investigate.</string>
+</resources>
