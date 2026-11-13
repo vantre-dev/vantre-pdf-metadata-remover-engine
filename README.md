@@ -1,5 +1,9 @@
 # Vantre PDF Engine
 
+[![Vantre_PDF v1.4.27](https://img.shields.io/badge/Vantre_PDF-v1.4.27-111315)](https://play.google.com/store/apps/details?id=dev.striptools.strippdf)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+[![Android](https://img.shields.io/badge/Android-API_26+-green.svg)](https://developer.android.com)
+
 The on-device engine behind [PDF Metadata Remover](https://getvantre.com/products/pdf-metadata-remover/) for Android. It reads and removes hidden metadata from PDF files and from Word, Excel and PowerPoint documents: author and title fields, creation and edit dates, producer and creator, XMP packets, annotations, bookmarks, embedded JavaScript, layers, form data, comments, tracked changes and speaker notes.
 
 Everything runs on the device. The engine has no network code and no INTERNET permission. Read the source to check.
